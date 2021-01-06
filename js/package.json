@@ -1,0 +1,14 @@
+{"name": "package-json",
+	"version": "6.5.0",
+	"description": "Get metadata of a package from the npm registry",
+	"license": "MIT",
+	"repository": "sindresorhus/package-json",
+	"author": "",
+	
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "json-server --watch data.json"
+    }
+}
