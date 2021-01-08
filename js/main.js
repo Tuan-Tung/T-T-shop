@@ -32,18 +32,23 @@ Menu.addEventListener('click', () => {
 // Modal
 
 let modalApp = document.querySelector('.modal__app');
-
+let modal = document.querySelector('.modal');
 let cart = document.querySelector('.cart');
 let Close = document.querySelector('.close');
 let Cancel = document.querySelector('.cancel');
 cart.addEventListener('click', () => {
     modalApp.style.display = 'block';
+    modal.style.display = 'block';
 })
 Close.addEventListener('click', () => {
     modalApp.style.display = 'none';
+    // modal.style.display = 'none';
+
 })
 Cancel.addEventListener('click', () => {
     modalApp.style.display = 'none';
+    // modal.style.display = 'none';
+
 })
 
 // scrollTop

@@ -501,14 +501,13 @@ svg{
     justify-content: center;
     width: 100%;
 }
-.modal{
+.modal__table{
     width: 70%;
     overflow: auto;
     max-height: 30rem;
     top: 50%;
     overflow: scroll;
-
-    transform: translate(0, 20%);
+    transform: translate(0%, 20%);
     animation: anima 0.5s;
     background-color: #ffffff;
 
@@ -549,6 +548,7 @@ svg{
     border: 1px solid #666666;
     width: 25%;
     font-size: 1.3rem;
+    text-align: center;
 }
 .table tbody th:last-child{
     cursor: pointer;
@@ -578,7 +578,7 @@ svg{
 .cancel,.price{
     width: 7rem;
     background-color:white;
-    font-size: 1.2rem;
+    font-size: 1rem;
     height: 2.4rem;
     margin: 0 0.5rem;
     border-radius: 10px;
@@ -598,6 +598,7 @@ svg{
 }
 .number__product{
     position: relative;
+    text-align: center;
 }
 .number__product input{
     width: 4rem;
@@ -615,6 +616,7 @@ svg{
     background-color: #ffffff;
     border: 1px solid #dddddd;
     outline: none;
+    line-height: 1rem;
 }
 .increase:hover{
     border: none;
@@ -630,7 +632,7 @@ svg{
 }
 
 @media (max-width: 1024px){
-    .modal{
+    .modal__table{
         width: 100%;
     }
     .table th,.header .login{
@@ -716,7 +718,7 @@ svg{
     }
     .cancel, .price,.search--icon{
         width: 5rem !important;
-        font-size: .85rem;
+        font-size: .7rem;
         font-weight: 600;
     }
 }

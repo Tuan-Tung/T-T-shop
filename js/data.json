@@ -23,6 +23,14 @@
       "money": "1101000",
       "category": 111,
       "img": "https://sigiaysneaker.com/wp-content/uploads/2020/05/giay_vans_ca_map_den-768x768.jpg"
+    },
+    {
+      "number": 1,
+      "id": 2,
+      "nameproduct": "Giày Uchanport 2020",
+      "money": "1101000",
+      "category": 111,
+      "img": "https://media3.scdn.vn/img3/2019/5_28/Kjqnwd_simg_de2fe0_500x500_maxb.jpg"
     }
   ],
   "product": [
@@ -32,7 +40,7 @@
       "nameproduct": "Giày thể thao 2020",
       "money": "1101000",
       "category": 111,
-      "img": "https://res-console.cloudinary.com/dkzpakm7v/thumbnails/v1/image/upload/v1608865310/c2FtcGxlcy9hbmgvaW1nL2dpw6B5M194cm5ic3g=/preview"
+      "img": "https://res-console.cloudinary.com/dkzpakm7v/thumbnails/v1/image/upload/v1608865310/c2FtcGxlcy9hbmgvaW1nL2dpw6B5MV9oMG0wN28=/preview"
     },
     {
       "number": 1,
@@ -216,7 +224,7 @@
       "nameproduct": "áo khoác nam 2020",
       "money": "801000",
       "category": 113,
-      "img": "https://res-console.cloudinary.com/dkzpakm7v/thumbnails/v1/image/upload/v1608865310/c2FtcGxlcy9hbmgvaW1nL2FvLWtob2FjLWJvbWJlci1uYW0tZGVuLTIwMjBfaXNocnV3/preview"
+      "img": "https://res.cloudinary.com/dkzpakm7v/image/upload/v1608865312/samples/anh/img/%C3%A1o-khoac-nam2_xaq7zo.jpg"
     }
   ]
 }
